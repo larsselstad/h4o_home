@@ -1,0 +1,17 @@
+{
+  "name": "h4o_home",
+  "version": "1.0.0",
+  "description": "Homepage for humans for ocean",
+  "scripts": {
+    "css": "postcss -c css-config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larsselstad/h4o_home.git"
+  },
+  "author": "Lars Selstad",
+  "devDependencies": {
+    "postcss-cli": "^2.3.2",
+    "autoprefixer": "^6.1.0"
+  }
+}
