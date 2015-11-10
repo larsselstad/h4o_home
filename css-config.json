@@ -3,6 +3,6 @@
     "input": "main.css",
     "output": "bundle.css",
     "autoprefixer": {
-        "browsers": "> 5%"
+        "browsers": ["> 1%", "last 2 versions"]
     }
 }
