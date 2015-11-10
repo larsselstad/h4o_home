@@ -130,7 +130,7 @@ section {
 #wave2 {
     bottom: 35px;
     background-image: url('data:image/svg+xml,%3Csvg%20version%3D%221.2%22%20baseProfile%3D%22tiny%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2079%2079%22%3E%3Cpath%20fill%3D%22%237891FF%22%20d%3D%22M0%2038c21.2%200%2039.1-18%2039.1-38h2C41.1%2020%2058%2038%2079%2038v40.9H0V38z%22%2F%3E%3C%2Fsvg%3E');
-    background-position-x: -43px;
+    left: -43px;
 }
 #wave3 {
     bottom: 15px;
@@ -139,7 +139,7 @@ section {
 #wave4 {
     bottom: -5px;
     background-image: url('data:image/svg+xml,%3Csvg%20version%3D%221.2%22%20baseProfile%3D%22tiny%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2079%2079%22%3E%3Cpath%20fill%3D%22%233F5480%22%20d%3D%22M0%2038c21.2%200%2039.1-18%2039.1-38h2C41.1%2020%2058%2038%2079%2038v40.9H0V38z%22%2F%3E%3C%2Fsvg%3E');
-    background-position-x: -43px;
+    left: -43px;
 }
 #wave5 {
     bottom: -25px;
